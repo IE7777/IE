@@ -1,0 +1,80 @@
+
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+h1{
+  font-size: 90px;
+  margin-top: 0;
+  font-family: 'Lobster', cursive;
+}
+
+
+.p1{
+  font-size: 20px;
+}
+
+
+
+.mountainPic{
+  position: relative;
+  right: 100px;
+}
+
+
+h2{
+  font-family: 'Indie Flower', cursive;
+}
+
+
+h3{
+  font-family: 'Indie Flower', cursive;
+}
+
+.TopContainer{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.middle-container{
+  background-color: #E4F9F5;
+}
+
+
+.bottom-container{
+  background-color: #E4F9F5;
+}
+
+
+
+
+
+
+.bottom-cloud{
+  position:absolute;
+  left: 90px;
+}
+
+
+.top-cloud{
+  position: absolute;
+  left: 1000px;
+  top: 200px;
+}
+
+.sun-cloud{
+  position: relative;
+  width: 200px;
+  left: 870px;
+  bottom: 500px;
+}
+
+
+.programmingPic{
+  width: 13%;
+}
